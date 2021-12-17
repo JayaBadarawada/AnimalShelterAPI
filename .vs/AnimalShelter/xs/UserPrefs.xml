@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{412B099C-40B1-4501-959A-CE1455599A5D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimalShelter/Repositories/DogRepository.cs">
+    <Files>
+      <File FileName="AnimalShelter/Entitites/Dog.cs" Line="10" Column="1" />
+      <File FileName="AnimalShelter/Repositories/DogRepository.cs" Line="1" Column="1" />
+      <File FileName="AnimalShelter/Controllers/DogController.cs" />
+      <File FileName="AnimalShelter/Startup.cs" />
+      <File FileName="AnimalShelter/Program.cs" Line="1" Column="1" />
+      <File FileName="AnimalShelter/appsettings.json" />
+      <File FileName="AnimalShelter/Properties/launchSettings.json" />
+      <File FileName="AnimalShelter/Repositories/IDogRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnimalShelter" expanded="True">
+            <Node name="AnimalShelter" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entitites" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="DogRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AnimalShelter PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
